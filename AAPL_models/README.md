@@ -7,3 +7,5 @@ Accuracy Ranking:
 For speed, use batching (leads to lesser accuracy, however):
 1. batching_lstm.ipynb
 2. or create own batching on biderectional lstm.
+
+The biderectional_lstm_autoregressive.ipynb stops any connection to true data.
