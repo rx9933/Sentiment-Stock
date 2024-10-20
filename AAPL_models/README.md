@@ -1,3 +1,5 @@
+Note this is only predicting one time step out, and then using the true data again for next prediction. Not true autoregressive model. 
+
 Accuracy Ranking:
 1. Biderectional LSTM
 2. LSTM
