@@ -1,1 +1,0 @@
-15 days of previous data -> 5 days of prediction
