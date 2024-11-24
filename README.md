@@ -32,9 +32,9 @@ Where:
 #### Volatility:
 Volatility is the standard deviation of the log returns over a specific period:
 
-\[
+$$
 \text{Volatility} = \text{std}(\text{Log Returns})
-\]
+$$
 
 This metric captures the variability in the stock returns over time.
 
