@@ -21,9 +21,9 @@ Logarithmic returns are widely used in finance to measure volatility. In this co
 #### Log Return:
 The log return for a given time period is calculated using the following formula:
 
-\[
+$$
 \text{Log Return} = \ln\left( \frac{y[i]}{y[i-1]} \right)
-\]
+$$
 
 Where:
 - \( y[i] \) is the price or value at time \( i \)
